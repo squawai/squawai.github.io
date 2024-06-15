@@ -12,6 +12,6 @@ Last Modified: Sun. June 16 2024
 ## 2024/06/15
 
 
-*. I made progress on submitting my paper.
-*. I bought some coffee beans.
-*. The soccer team I support, Kyoto Sanga F.C., won their first home game.
+* I made progress on submitting my paper.
+* I bought some coffee beans.
+* The soccer team I support, Kyoto Sanga F.C., won their first home game.
