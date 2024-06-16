@@ -9,6 +9,12 @@ Last Modified: Sun. June 16 2024
 3. I aim to capture what my life is like so I can remember it.
 4. I don't try to entertain others.
 
+## 2024/06/16
+
+- Despite being tired, I managed to film, edit, and upload a video for YouTube.
+- I prepared four servings of chicken salad.
+- Although it took time, I completed my morning routine.
+
 ## 2024/06/15
 
 
