@@ -1,6 +1,6 @@
 # memo
 
-Last Modified: Sun. June 16 2024
+Last Modified: Sun. June 18 2024
 
 ## Guidelines
 
@@ -8,6 +8,14 @@ Last Modified: Sun. June 16 2024
 2. I don't write in perfect English.
 3. I aim to capture what my life is like so I can remember it.
 4. I don't try to entertain others.
+
+## 2024/06/17
+
+### Three Good Things That Happened Today
+
+* My wife treated me to a massage.
+* My wife did a lot of household chores.
+* Thanks to my wife, I managed to complete more work and research tasks than I had planned.
 
 ## 2024/06/16
 
