@@ -9,6 +9,19 @@ Last Modified: Sun. June 18 2024
 3. I aim to capture what my life is like so I can remember it.
 4. I don't try to entertain others.
 
+## 2024/06/18
+
+
+### Achievement
+
+* Took the WAIS-III test.
+
+### Three Good Things That Happened Today
+
+* I completed my morning routine.
+* I received my business cards.
+* The meat bar my wife and I randomly visited was surprisingly delicious.
+
 ## 2024/06/17
 
 ### Three Good Things That Happened Today
