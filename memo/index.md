@@ -1,6 +1,6 @@
 # memo
 
-Last Modified: Sun. June 18 2024
+Last Modified:  June 20 2024
 
 ## Guidelines
 
@@ -9,8 +9,14 @@ Last Modified: Sun. June 18 2024
 3. I aim to capture what my life is like so I can remember it.
 4. I don't try to entertain others.
 
-## 2024/06/18
 
+## 2024/06/19
+
+* I attended my mother-in-law's birthday party.
+* Although I couldn't manage my daily routine, I was able to sleep early even at someone else's house.
+* I reviewed the WAIS-III test I took on 18 June 2024. Regardless of whether this particular review was necessary, it was important to create a template for future medical tests and experiences that require review and reflection.
+
+## 2024/06/18
 
 ### Achievement
 
