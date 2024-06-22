@@ -1,6 +1,6 @@
 # memo
 
-Last Modified:  June 20 2024
+Last Modified:  June 22 2024
 
 ## Guidelines
 
@@ -9,6 +9,11 @@ Last Modified:  June 20 2024
 3. I aim to capture what my life is like so I can remember it.
 4. I don't try to entertain others.
 
+## 2024/06/21
+
+- I did the laundry during a break in the rainy season.
+- My father-in-law, my wife, and I went to a delicious yakitori restaurant.
+- The three of us watched the film "Tetris," and it was interesting.
 
 ## 2024/06/19
 
