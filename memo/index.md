@@ -1,6 +1,6 @@
 # memo
 
-Last Modified:  June 22 2024
+Last Modified:  June 23 2024
 
 ## Guidelines
 
@@ -11,11 +11,18 @@ Last Modified:  June 22 2024
 
 ## Three Line Journal
 
+
 ### 2024/06/21
 
-- I did the laundry during a break in the rainy season.
-- My father-in-law, my wife, and I went to a delicious yakitori restaurant.
-- The three of us watched the film "Tetris," and it was interesting.
+* I did the laundry during a break in the rainy season.
+* My father*in*law, my wife, and I went to a delicious yakitori restaurant.
+* The three of us watched the film "Tetris," and it was interesting.
+
+### 2024/06/20
+
+* The new restaurant my father*in*law booked was delicious.
+* A friend confirmed their participation in the basketball tournament.
+* I was able to prepare for my research.
 
 ### 2024/06/19
 
