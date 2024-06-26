@@ -11,6 +11,12 @@ Last Modified:  June 23 2024
 
 ## Three Line Journal
 
+### 2024/06/25
+
+* I got irritated and took it out on my wife, but later I managed to improve the situation by keeping an appropriate distance.
+* After coming home, I was exhausted and couldn't move, but I switched gears by doing some exercises to focus on my tasks.
+* I achieved my goal of having a 15-minute bath.
+
 
 ### 2024/06/21
 
