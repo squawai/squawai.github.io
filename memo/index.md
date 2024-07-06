@@ -11,6 +11,12 @@ Last Modified:  July 05 2024
 
 ## Three Line Journal
 
+### 2024/07/06
+
+- Despite feeling fatigued, I managed to go shopping.
+- I strolled around and enjoyed the festival.
+- The barbecue we had at home was delicious.
+
 ### 2024/07/05
 
 - I did the laundry during a break in the rainy season.
