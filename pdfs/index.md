@@ -6,6 +6,6 @@ Last Modified:  July 09 2024
 
 ### 計算論入門: Grzegorczyk階層の紹介
 
-[動画]()
+[動画](https://youtu.be/V4DE45fI4ps)
 
 [スライド](./slide_Grzegorzyk.pdf)
