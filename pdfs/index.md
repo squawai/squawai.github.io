@@ -8,4 +8,4 @@ Last Modified:  July 09 2024
 
 [動画](https://youtu.be/V4DE45fI4ps)
 
-[スライド](./slide_Grzegorzyk.pdf)
+[スライド](./slide_Grzegorczyk.pdf)
