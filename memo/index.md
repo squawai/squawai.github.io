@@ -11,6 +11,13 @@ Last Modified:  July 09 2024
 
 ## Three Line Journal
 
+### 2024/07/22
+
+- Attended a seminar on business consulting
+- Created a YouTube video
+- Made chicken salad
+
+
 ### 2024/07/07
 
 **SANGA WON!!**
