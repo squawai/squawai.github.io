@@ -1,6 +1,6 @@
 # memo
 
-Last Modified:  July 09 2024
+Last Modified:  11 Nov. 2024
 
 ## Guidelines
 
@@ -10,6 +10,11 @@ Last Modified:  July 09 2024
 4. I don't try to entertain others.
 
 ## Three Line Journal
+
+### 2024/11/09
+
+**Kyoto Sanga F.C. have remained in J1.**
+
 
 ### 2024/07/22
 
@@ -22,11 +27,13 @@ Last Modified:  July 09 2024
 
 **SANGA WON!!**
 
+
 ### 2024/07/06
 
 - Despite feeling fatigued, I managed to go shopping.
 - I strolled around and enjoyed the festival.
 - The barbecue we had at home was delicious.
+
 
 ### 2024/07/05
 
