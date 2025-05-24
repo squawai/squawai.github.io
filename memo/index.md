@@ -1,6 +1,6 @@
 # memo
 
-Last Modified:  11 Nov. 2024
+Last Modified: 25 May 2025
 
 ## Guidelines
 
@@ -8,6 +8,8 @@ Last Modified:  11 Nov. 2024
 2. I don't write in perfect English.
 3. I aim to capture what my life is like so I can remember it.
 4. I don't try to entertain others.
+
+[それは"武勇伝"なのか](./The_Ethical_Crisis_of_Street_Justice.md): 2025/05/25
 
 ## Three Line Journal
 
