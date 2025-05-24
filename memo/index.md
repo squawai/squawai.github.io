@@ -2,6 +2,10 @@
 
 Last Modified: 25 May 2025
 
+## articles
+
+[それは"武勇伝"なのか](./The_Ethical_Crisis_of_Street_Justice.md): 2025/05/25
+
 ## Guidelines
 
 1. I write for myself.
@@ -9,7 +13,6 @@ Last Modified: 25 May 2025
 3. I aim to capture what my life is like so I can remember it.
 4. I don't try to entertain others.
 
-[それは"武勇伝"なのか](./The_Ethical_Crisis_of_Street_Justice.md): 2025/05/25
 
 ## Three Line Journal
 
