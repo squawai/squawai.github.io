@@ -1,10 +1,9 @@
 # memo
 
-Last Modified: 25 May 2025
+Last Modified: 23 Sep. 2025
 
 ## articles
 
-[それは"武勇伝"なのか](./The_Ethical_Crisis_of_Street_Justice.md): 2025/05/25
 
 ## Guidelines
 
