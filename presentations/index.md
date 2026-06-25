@@ -1,7 +1,13 @@
 # Presentation Archive
 
-Last Modified: 01 Nov. 2024
+Last Modified: 25 June 2026
 
+## 2026
+
+### 25 Jun. 2026
+
+[エンジニアたちのゆるっと数学勉強会 #19](https://yurutto-math.connpass.com/event/396393/)
+[「不完全性定理クイックインストール（素描）」](./20260625slide_incomp.html)
 ## 2024
 
 ### 18 Oct. 2024
